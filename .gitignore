@@ -1,0 +1,9 @@
+*~
+.classpath
+.project
+target
+.settings
+MANIFEST.MF
+.metadata/
+target/classes
+web/bin
